@@ -3,10 +3,10 @@
 #include <stdio.h>
 #include <conio.h>
 
-/*
-    Source by Programiz (https://www.programiz.com)
+/*  
+    Source by AlphaCodingSkills (https://www.alphacodingskills.com)
     Modified For Learn by RK
-    I.D.E : VS2022
+    I.D.E : VS2022 
 */
 
 int main() {
